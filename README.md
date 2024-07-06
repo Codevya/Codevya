@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yoan Abadine
-- 👀 I’m interested in building beautiful apps and healthcare solutions...
-- 🌱 I’m currently learning healthcare standards, Dicom, HL7, archiving...
+- 👋 Hi, I’m Yoan,
+- 💻 Tech & Data enthusiast, constant learner, exploring the intersection of technology and society.
 
 <!---
 YAbadine/YAbadine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
